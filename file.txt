@@ -1,2 +1,3 @@
 hello from remote
 hello again remote
+hello from bash
